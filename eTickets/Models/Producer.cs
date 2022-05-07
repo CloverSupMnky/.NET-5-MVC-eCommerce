@@ -3,9 +3,9 @@
 namespace eTickets.Models
 {
     /// <summary>
-    /// 演員
+    /// 製作人
     /// </summary>
-    public class Actor
+    public class Producer
     {
         /// <summary>
         /// 編號
